@@ -1,0 +1,24 @@
+#content{
+	with:100%;
+	height:auto;
+	align:center;
+	background-color: #81DAF5;
+}
+#content .section-title{
+	text-align: center;
+	padding-top: 2em;
+}
+form{
+	text-align: center;
+	padding-top: 2em;
+	
+}
+#content form #track_number{
+	left:0px;
+	with:40%;
+	height: 67px;
+	border-radius: 20px;
+}
+#track_number{
+	with: 100%;
+}
